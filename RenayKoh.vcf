@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Koh;Renay;;;
+FN:Renay Koh
+ORG:Time Emporium Pte Ltd
+TITLE:Operations Manager
+TEL;TYPE=CELL,VOICE:+6596738501
+TEL;TYPE=WORK,VOICE:+6563125615
+EMAIL:renay.koh@timeemporium.com
+URL:https://timeemporium.com
+ADR;TYPE=WORK:;;10 Airport Boulevard, Changi Airport;T4 Office, #02-261;;;819665;Singapore
+END:VCARD
